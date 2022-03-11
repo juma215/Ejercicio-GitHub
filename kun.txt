@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola el nombre del Kun es Sergio
+=======
+hola el apellido del kun es aguero
+>>>>>>> c0cd7ad56df8f3989cfa9dd0f761aceba6c6e77a
